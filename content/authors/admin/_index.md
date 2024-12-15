@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tom (Lok Ming) Tam
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tom (Lok Ming)
+last_name: Tam
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:🧑🏻‍🔬
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Staff Toxicologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of Toxic Substances Control (Cal/EPA) 
+    url: https://dtsc.ca.gov/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,73 +34,74 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: [https://twitter.com/GetResearchDev](https://x.com/DrTomTam)
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tomlmtam
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/lok-ming-tom-tam-phd/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: [https://scholar.google.com/](https://scholar.google.com/citations?user=cGKdogUAAAAJ&hl=en)
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Toxicology of Heavy Metals
+  - Biogerontology
+  - Health Disparities
+  - Environmental Justice
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Environmental Toxicology
+    institution: University of California Riverside
+    date_start: 2014-09
+    date_end: 2019-12-19
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Arsenic-Zinc Finger Protein Interaction and The Impact of Arsenic Exposure on Protein Quality Control_. Supervised by [Prof Yinsheng Wang]([https://example.com](https://profiles.ucr.edu/app/home/profile/yinsheng)). Presented papers at 10+ local and national conferences with the contributions being published in Chemical Research in Toxicology journal.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: '[https://example.com](https://www.proquest.com/openview/df58c9100663c815452ca3c586174033/1?pq-origsite=gscholar&cbl=18750&diss=y)'
+  - area: Arsenic Toxicology & Protein Quality Control
+    institution: University of California Riverside
+    date_start: 2014-09
+    date_end: 2019-12-19
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Environmental Toxicology (Exchange)
+    institution: University of California Davis
+    date_start: 2012-09
+    date_end: 2013-06
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.0/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Staff Toxicologist (Specialist)
+    company_name: Department of Toxic Substances Control (Cal/EPA)
+    company_url: 'https://dtsc.ca.gov/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-12
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: NIH K12 Postdoctoral Research Fellow
+    company_name: University of Rochester Department of Environmental Medicine
+    company_url: 'https://www.urmc.rochester.edu/environmental-medicine'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-01
+    date_end: 2024-11
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -112,17 +113,17 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Chemical Risk Assessment
         description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
-      - name: Data Science
+      - name: Data analysis
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Mass Spectrometry-based Proteomics
         description: ''
-        percent: 40
+        percent: 50
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -132,33 +133,33 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Bowling
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: bowling
+      - name: Fine art
         description: ''
         percent: 80
-        icon: camera
+        icon: artist
 
 languages:
   - name: English
+    percent: 95
+  - name: Cantonese
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: American Sign Language
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: NIH K-12 Award
+    url: https://www.urmc.rochester.edu/academic-research-careers-deaf-scholars
+    date: '2023-01-01'
+    awarder: NIGMS
+    icon: NIH
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tom (Lok Ming) Tam is a Staff Toxicologist at the Department of Toxic Substances Control (DTSC) under California Environmental Protection Agency. His research interests include environmental toxicology of metals, biogerontology and health disparity of historically marginalized populations. He is involved in human and ecological risk assessment within a multidisciplinary team in DTSC, which provides DTSC program staff with world-class technical assistance and training on toxicity of chemicals and the health risks of chemicals to human and ecological receptors.
